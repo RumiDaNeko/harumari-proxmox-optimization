@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/extremeshok/xshok-proxmox/master/install-post.
 return value is 0
 
 ```
-wget https://raw.githubusercontent.com/NotMinhDucGamingTV/harumari-proxmox-optimization/master/install-post.sh -c -O install-post.sh && bash install-post.sh && rm install-post.sh
+wget https://raw.githubusercontent.com/RumiDaNeko/harumari-proxmox-optimization/master/install-post.sh -c -O install-post.sh && bash install-post.sh && rm install-post.sh
 ```
 
 ##  TO SET AND USE YOUR OWN OPTIONS
